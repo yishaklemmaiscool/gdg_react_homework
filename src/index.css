@@ -1,0 +1,51 @@
+.app{
+  text-align: center;
+  display:inline-block;
+  margin: auto;
+  
+
+}
+.yishakl{
+  border: #a0bb06aa solid 2px;
+  padding: 1rem;
+  margin: 1rem;
+  box-shadow: 0 0 1rem hsla(34, 95%, 68%, 0.667);
+  border-radius: 10px;
+  background-color: rgba(192, 0, 0, 0.833);
+  background: linear-gradient(to bottom right, #910606, #202d02a9);
+}
+.yishak{
+  color: red;
+  border: #61dafbaa solid 2px;
+ 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.yishakl img{
+  height: 40vmin;
+  pointer-events: none; 
+  width: 40vmin;
+}
+.yishakl h1{
+  font-size: 3rem;
+  color: rgb(31, 17, 2);
+}
+.yishakl p{
+  font-size: 1.5rem;
+  color: white;
+} 
+.yishakl h4{
+  font-size: 1.2rem;
+  color: rgb(248, 253, 255);
+} 
+.yishakl h2{
+  color:rgb(18, 18, 1);
+} 
+yishak2 ul,li{
+  list-style-type: square;
+  color: rgb(43, 14, 5);
+  display:block;
+  text-decoration: none;
+
+}
