@@ -1,19 +1,20 @@
 import './App.css'
+import NewUser from './newuser'
 
 import Yishak from './yishak'
-
-
 const App = () => {
   return (
-    <>
-     <Yishak/>
-      
+    <div className="app">
+     <Yishak />
+     <NewUser />
+    
      
-    </>
+    </div>
 
       
     
   )
 }
+
 
 export default App
